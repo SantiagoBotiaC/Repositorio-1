@@ -1,0 +1,12 @@
+Libro, Titulo1, Nombre Autor1, Apellido Autor1, 20, 1234
+Libro, Titulo2, Nombre Autor2, Apellido Autor2, 30, 2345
+Libro, Titulo3, Nombre Autor3, Apellido Autor3, 5, 3456
+Libro, Titulo4, Nombre Autor4, Apellido Autor4, 50, 4567
+DVD, DVD1, Nombre Autor5, Apellido Autor5, Nombre Actor1, Apellido Actor1, Nombre Actor2, Apellido Actor2, 15
+DVD, DVD2, Nombre Autor6, Apellido Autor6, Nombre Actor1, Apellido Actor1, Nombre Actor2, Apellido Actor2, 20
+DVD, DVD3, Nombre Autor7, Apellido Autor7, Nombre Actor1, Apellido Actor1, Nombre Actor2, Apellido Actor2, 25
+DVD, DVD4, Nombre Autor8, Apellido Autor8, Nombre Actor1, Apellido Actor1, Nombre Actor2, Apellido Actor2, 30
+CD, CD1, Nombre Autor 9, Apellido Autor9, Nombre Musico1, Apellido Musico1, Nombre Musico2, Apellido Musico2, Genero1, 4
+CD, CD2, Nombre Autor 10, Apellido Autor10, Nombre Musico1, Apellido Musico1, Nombre Musico2, Apellido Musico2, Genero2, 150
+CD, CD3, Nombre Autor 11, Apellido Autor11, Nombre Musico1, Apellido Musico1, Nombre Musico2, Apellido Musico2, Genero3, 80
+CD, CD4, Nombre Autor 12, Apellido Autor12, Nombre Musico1, Apellido Musico1, Nombre Musico2, Apellido Musico2, Genero4, 90
